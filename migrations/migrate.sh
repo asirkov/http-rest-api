@@ -1,0 +1,1 @@
+migrate -path . -database "postgres://localhost/restapi_dev?sslmode=disable&user=oleksandr&password=toor" up
